@@ -1,1 +1,1 @@
-# Authentication-Secrets
+# Share your secret by being anonymous
